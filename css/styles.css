@@ -1,0 +1,36 @@
+#about p{
+color: black;
+}
+
+.about-text {
+    text-align: center;
+    padding: 0 3em;
+}
+
+#gallery p{
+color: black;
+}
+
+#services p{
+color: black;
+}
+ 
+
+.gallery-grid a.agilefig{
+    background: url(../images/responsive.jpg) no-repeat center 0px;
+    background-size: cover;  
+    display: block;
+    min-height: 238px;
+}
+.gallery-grid a.agilefig.gallery-img2{
+    background: url(../images/formation.jpg) no-repeat center 0px; 
+    background-size: cover;
+}
+.gallery-grid a.agilefig.gallery-img3{
+    background: url(../images/commerce.jpg) no-repeat center 0px; 
+    background-size: cover; 
+}
+.gallery-grid a.agilefig.gallery-img4{
+    background: url(../images/distance.jpg) no-repeat center 0px; 
+    background-size: cover; 
+} 
